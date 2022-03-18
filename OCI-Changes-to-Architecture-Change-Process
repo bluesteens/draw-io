@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T11:54:36.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="imTDphLDlAdGhB8w7IkP" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T12:02:10.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="iN2Yil_h0g59QTetiZv8" version="16.2.7" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1375" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1375" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
         <mxCell id="YmB-td7ndwVE3drN486i-5" value="Submission of Change Request via OCI website&amp;nbsp; form or GitHub issue" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontSize=10;spacingLeft=14;spacingTop=4;dx=10;dy=10;" vertex="1" parent="1">
           <mxGeometry x="280" y="216" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YmB-td7ndwVE3drN486i-7" value="Initial Change Evaluation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="YmB-td7ndwVE3drN486i-7" value="Initial Request Evaluation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="290" y="321" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YmB-td7ndwVE3drN486i-8" value="&lt;font style=&quot;font-size: 10px&quot;&gt;P&amp;amp;A Committee&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
@@ -58,6 +58,9 @@
             <mxPoint x="330" y="441" as="sourcePoint" />
             <mxPoint x="380" y="391" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YmB-td7ndwVE3drN486i-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YmB-td7ndwVE3drN486i-13" target="YmB-td7ndwVE3drN486i-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YmB-td7ndwVE3drN486i-13" value="Normal Change Process with P&amp;amp;A and Steering Approvals" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="441" y="421" width="120" height="60" as="geometry" />
